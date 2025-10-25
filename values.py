@@ -1,0 +1,28 @@
+# Screen values
+SCREEN_WIDTH = 1440
+SCREEN_HEIGHT = 880
+BG_COLOR = "black"
+
+# Text values
+SCORE_X = 1200
+SCORE_COLOR = "white"
+SCORE_FONT = "courier new"
+
+# Paddle values
+PADDLE_X = 670
+PADDLE_Y = 760
+PADDLE_WIDTH = 100
+PADDLE_HEIGHT = 20
+PADDLE_SPEED = 8
+
+# Ball values
+BALL_X = 716
+BALL_Y = 720
+BALL_X_SPEED = 6
+BALL_Y_SPEED = 4
+BALL_RADIUS = 10
+BALL_COLOR = "grey"
+
+# Bricks values
+BRICK_WIDTH = 110
+BRICK_HEIGHT = 40
